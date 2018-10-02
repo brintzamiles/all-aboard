@@ -22,11 +22,5 @@ In this assignment, you'll create a train schedule application that incorporates
   
   * Users from many different machines must be able to view same train times.
   
-  * Styling and theme are completely up to you. Get Creative!
+  
 
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-- - -
